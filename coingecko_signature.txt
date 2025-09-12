@@ -1,0 +1,5 @@
+Message: I am the owner of contract 0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e
+Signature: 0xPASTE_YOUR_SIGNATURE_FROM_MOBILE_HERE
+Wallet: 0x956e6FAc3Cd2e963Bd243DDc6c263B36a9FD85e9
+Verified on: BscScan
+Date: 12-Sep-2025
